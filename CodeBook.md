@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
     
-    <title>coursera-getting-and-cleaning-data/README.md at master · eriky/coursera-getting-and-cleaning-data · GitHub</title>
+    <title>coursera-getting-and-cleaning-data/CodeBook.md at master · eriky/coursera-getting-and-cleaning-data · GitHub</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub" />
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png" />
@@ -31,7 +31,7 @@
     <meta name="selected-link" value="repo_source" data-pjax-transient />
       <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="836BC097:3348:1605F69:53D2EF50" name="octolytics-dimension-request_id" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="836BC097:3348:1605EA7:53D2EF4C" name="octolytics-dimension-request_id" />
     
 
     
@@ -40,7 +40,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="FnRbYcnLOt3X/FiNn+jzdzJntUObJFfdKdNFe7XhtMFy/G8FyU83j+oqgYmhdzdWoPo10Ucz8RxQE+InVY1cKw==" name="csrf-token" />
+<meta content="szV3qq8ICRBarwi8Ahxpl1sdNLhVPOfLYG6wSJTTOoILj++Cbbwsq6ITKaYcBMP6zVmwQdCouVAMcb9yP11j1w==" name="csrf-token" />
 
     <link href="https://assets-cdn.github.com/assets/github-8507714a2d8dc739b140d16059aa7ee2f55212d5.css" media="all" rel="stylesheet" type="text/css" />
     <link href="https://assets-cdn.github.com/assets/github2-9c0bb0bec040471a7882f7ee26423696218b5373.css" media="all" rel="stylesheet" type="text/css" />
@@ -79,7 +79,7 @@
 
     <div class="header-actions">
         <a class="button primary" href="/join">Sign up</a>
-      <a class="button signin" href="/login?return_to=%2Feriky%2Fcoursera-getting-and-cleaning-data%2Fblob%2Fmaster%2FREADME.md">Sign in</a>
+      <a class="button signin" href="/login?return_to=%2Feriky%2Fcoursera-getting-and-cleaning-data%2Fblob%2Fmaster%2FCodeBook.md">Sign in</a>
     </div>
 
     <div class="command-bar js-command-bar  in-repository">
@@ -308,9 +308,9 @@
           
 
 
-<a href="/eriky/coursera-getting-and-cleaning-data/blob/a7d65fdf4b737e131b8d3708ffde3c5c58308c01/README.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/eriky/coursera-getting-and-cleaning-data/blob/a7d65fdf4b737e131b8d3708ffde3c5c58308c01/CodeBook.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:a12e52e7fd18660eb8b3545e8ee90818 -->
+<!-- blob contrib key: blob_contributors:v21:da750a062cfd6c6203ed8ff9a7c14094 -->
 
 <div class="file-navigation">
   
@@ -357,7 +357,7 @@
 
             <div class="select-menu-item js-navigation-item selected">
               <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/eriky/coursera-getting-and-cleaning-data/blob/master/README.md"
+              <a href="/eriky/coursera-getting-and-cleaning-data/blob/master/CodeBook.md"
                  data-name="master"
                  data-skip-pjax="true"
                  rel="nofollow"
@@ -391,7 +391,7 @@
       <span class="octicon octicon-list-unordered"></span>
     </a>
     <button class="js-zeroclipboard minibutton zeroclipboard-button"
-          data-clipboard-text="README.md"
+          data-clipboard-text="CodeBook.md"
           aria-label="Copy to clipboard"
           data-copied-hint="Copied!">
       <span class="octicon octicon-clippy"></span>
@@ -399,7 +399,7 @@
   </div>
 
   <div class="breadcrumb">
-    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/eriky/coursera-getting-and-cleaning-data" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">coursera-getting-and-cleaning-data</span></a></span></span><span class="separator"> / </span><strong class="final-path">README.md</strong>
+    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/eriky/coursera-getting-and-cleaning-data" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">coursera-getting-and-cleaning-data</span></a></span></span><span class="separator"> / </span><strong class="final-path">CodeBook.md</strong>
   </div>
 </div>
 
@@ -407,9 +407,9 @@
   <div class="commit file-history-tease">
       <img alt="" class="main-avatar" height="24" src="https://1.gravatar.com/avatar/15182a0501838344d24b33ffbcf50734?d=https%3A%2F%2Fassets-cdn.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=x&amp;s=140" width="24" />
       <span class="author"><span>Erik-Jan van Baaren</span></span>
-      <time datetime="2014-05-21T22:14:12+02:00" is="relative-time">May 21, 2014</time>
+      <time datetime="2014-05-21T22:18:43+02:00" is="relative-time">May 21, 2014</time>
       <div class="commit-title">
-          <a href="/eriky/coursera-getting-and-cleaning-data/commit/8d1bc7c90ae869d3efac69e9aa28e953b47dbe6f" class="message" data-pjax="true" title="updated codebook and readme">updated codebook and readme</a>
+          <a href="/eriky/coursera-getting-and-cleaning-data/commit/fb5caad1fc048180f13ec4af6743f71fd24d5fe9" class="message" data-pjax="true" title="updated codebook">updated codebook</a>
       </div>
 
     <div class="participation">
@@ -427,15 +427,15 @@
   <div class="file">
     <div class="meta clearfix">
       <div class="info file-name">
-          <span>35 lines (24 sloc)</span>
+          <span>59 lines (44 sloc)</span>
           <span class="meta-divider"></span>
-        <span>1.414 kb</span>
+        <span>3.002 kb</span>
       </div>
       <div class="actions">
         <div class="button-group">
-          <a href="/eriky/coursera-getting-and-cleaning-data/raw/master/README.md" class="minibutton " id="raw-url">Raw</a>
-            <a href="/eriky/coursera-getting-and-cleaning-data/blame/master/README.md" class="minibutton js-update-url-with-hash">Blame</a>
-          <a href="/eriky/coursera-getting-and-cleaning-data/commits/master/README.md" class="minibutton " rel="nofollow">History</a>
+          <a href="/eriky/coursera-getting-and-cleaning-data/raw/master/CodeBook.md" class="minibutton " id="raw-url">Raw</a>
+            <a href="/eriky/coursera-getting-and-cleaning-data/blame/master/CodeBook.md" class="minibutton js-update-url-with-hash">Blame</a>
+          <a href="/eriky/coursera-getting-and-cleaning-data/commits/master/CodeBook.md" class="minibutton " rel="nofollow">History</a>
         </div><!-- /.button-group -->
 
           <a class="octicon-button tooltipped tooltipped-nw"
@@ -455,41 +455,66 @@
       
   <div id="readme" class="blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1>
-<a name="user-content-getting-and-cleaning-data-course-project" class="anchor" href="#getting-and-cleaning-data-course-project" aria-hidden="true"><span class="octicon octicon-link"></span></a>Getting and Cleaning Data: Course Project</h1>
+<a name="user-content-codebook-for-the-tidy-dataset" class="anchor" href="#codebook-for-the-tidy-dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>CodeBook for the tidy dataset</h1>
 
 <h2>
-<a name="user-content-introduction" class="anchor" href="#introduction" aria-hidden="true"><span class="octicon octicon-link"></span></a>Introduction</h2>
+<a name="user-content-data-source" class="anchor" href="#data-source" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data source</h2>
 
-<p>This repository contains my work for the course project for the Coursera course "Getting and Cleaning data", part of the Data Science specialization.
-What follows first are my notes on the original data.</p>
-
-<h2>
-<a name="user-content-about-the-raw-data" class="anchor" href="#about-the-raw-data" aria-hidden="true"><span class="octicon octicon-link"></span></a>About the raw data</h2>
-
-<p>The features (561 of them) are unlabeled and can be found in the x_test.txt. 
-The activity labels are in the y_test.txt file.
-The test subjects are in the subject_test.txt file.</p>
-
-<p>The same holds for the training set.</p>
+<p>This dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which was originally made avaiable here: <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones</a></p>
 
 <h2>
-<a name="user-content-about-the-script-and-the-tidy-dataset" class="anchor" href="#about-the-script-and-the-tidy-dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a>About the script and the tidy dataset</h2>
+<a name="user-content-feature-selection-" class="anchor" href="#feature-selection-" aria-hidden="true"><span class="octicon octicon-link"></span></a>Feature Selection </h2>
 
-<p>I created a script called run_analysis.R which will merge the test and training sets together.
-Prerequisites for this script:</p>
+<p>I refer you to the README and features.txt files in the original dataset to learn more about the feature selection for this dataset. And there you will find the follow description:</p>
 
-<ol class="task-list">
-<li>the UCI HAR Dataset must be extracted and..</li>
-<li>the UCI HAR Dataset must be availble in a directory called "UCI HAR Dataset"</li>
-</ol><p>After merging testing and training, labels are added and only columns that have to do with mean and standard deviation are kept.</p>
+<p>The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. </p>
 
-<p>Lastly, the script will create a tidy data set containing the means of all the columns per test subject and per activity.
-This tidy dataset will be written to a tab-delimited file called tidy.txt, which can also be found in this repository.</p>
+<p>Subsequently, the body linear acceleration and angular velocity were derived in time to obtain Jerk signals (tBodyAccJerk-XYZ and tBodyGyroJerk-XYZ). Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm (tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag). </p>
 
-<h2>
-<a name="user-content-about-the-code-book" class="anchor" href="#about-the-code-book" aria-hidden="true"><span class="octicon octicon-link"></span></a>About the Code Book</h2>
+<p>Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals). </p>
 
-<p>The CodeBook.md file explains the transformations performed and the resulting data and variables.</p></article>
+<p>The reasoning behind my selection of features is that the assignment explicitly states "Extracts only the measurements on the mean and standard deviation for each measurement."
+To be complete, I included all variables having to do with mean or standard deviation.</p>
+
+<p>In short, for this derived dataset, these signals were used to estimate variables of the feature vector for each pattern:<br>
+'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.</p>
+
+<ul class="task-list">
+<li>tBodyAcc-XYZ</li>
+<li>tGravityAcc-XYZ</li>
+<li>tBodyAccJerk-XYZ</li>
+<li>tBodyGyro-XYZ</li>
+<li>tBodyGyroJerk-XYZ</li>
+<li>tBodyAccMag</li>
+<li>tGravityAccMag</li>
+<li>tBodyAccJerkMag</li>
+<li>tBodyGyroMag</li>
+<li>tBodyGyroJerkMag</li>
+<li>fBodyAcc-XYZ</li>
+<li>fBodyAccJerk-XYZ</li>
+<li>fBodyGyro-XYZ</li>
+<li>fBodyAccMag</li>
+<li>fBodyAccJerkMag</li>
+<li>fBodyGyroMag</li>
+<li>fBodyGyroJerkMag</li>
+</ul><p>The set of variables that were estimated (and kept for this assignment) from these signals are: </p>
+
+<ul class="task-list">
+<li>mean(): Mean value</li>
+<li>std(): Standard deviation</li>
+</ul><p>Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:</p>
+
+<ul class="task-list">
+<li>gravityMean</li>
+<li>tBodyAccMean</li>
+<li>tBodyAccJerkMean</li>
+<li>tBodyGyroMean</li>
+<li>tBodyGyroJerkMean</li>
+</ul><p>Other estimates have been removed for the purpose of this excercise.</p>
+
+<p>Note: features are normalized and bounded within [-1,1].</p>
+
+<p>The resulting variable names are of the following form: tbodyaccmeanx, which means the mean value of tBodyAcc-XYZ.</p></article>
   </div>
 
   </div>
@@ -530,7 +555,7 @@ This tidy dataset will be written to a tab-delimited file called tidy.txt, which
     </a>
 
     <ul class="site-footer-links">
-      <li>&copy; 2014 <span title="0.02406s from github-fe119-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2014 <span title="0.02561s from github-fe117-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="/site/terms">Terms</a></li>
         <li><a href="/site/privacy">Privacy</a></li>
         <li><a href="/security">Security</a></li>
