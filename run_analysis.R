@@ -22,10 +22,10 @@ testSubjects <- data.table(read.table("test/subject_test.txt", as.is = TRUE));
 cleanFeatures <- features$V2
 cleanFeatures <- gsub("()", "", cleanFeatures, fixed = TRUE)
 cleanFeatures <- gsub("-", ".", cleanFeatures, fixed = TRUE)
-cleanFeatures <- gsub("tBody", "timeBody", cleanFeatures, fixed = TRUE)
-cleanFeatures <- gsub("fBody", "fftBody", cleanFeatures, fixed = TRUE)
-cleanFeatures <- gsub("tGravity", "timeGravity", cleanFeatures, fixed = TRUE)
-cleanFeatures <- gsub("fGravity", "fftGravity", cleanFeatures, fixed = TRUE)
+cleanFeatures <- gsub("tBody", "TimeBody", cleanFeatures, fixed = TRUE)
+cleanFeatures <- gsub("fBody", "FFTBody", cleanFeatures, fixed = TRUE)
+cleanFeatures <- gsub("tGravity", "TimeGravity", cleanFeatures, fixed = TRUE)
+cleanFeatures <- gsub("fGravity", "FFTGravity", cleanFeatures, fixed = TRUE)
 
 ## Set column names to test and training data set
 setnames(testSet, cleanFeatures)
@@ -60,6 +60,11 @@ meltedData <- melt(data, id = c("subjectId", "activity"))
 
 ## Apply mean to melted data
 meanData <- dcast(meltedData, subjectId+activity~..., mean)
+
+## Add avg to column names
+finalNames <- names(meanData)
+finalNames <- c(finalNames[1:2], paste("avg", finalNames[3:length(finalNames)], sep = ""))
+names(meanData) <- finalNames
 
 ## Write table to tidy.txt
 write.table(meanData, file = "tidy.txt")
