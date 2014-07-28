@@ -47,5 +47,12 @@ Other estimates have been removed for the purpose of this excercise.
 
 Note: features are normalized and bounded within [-1,1].
 
-Dataset Transformation
-----------------------
+Dataset Transformation: run_analysis.R
+--------------------------------------
+* Using the give data set the script will first clean the variable names based on 'features.txt'
+* Then the variable names are applied to the test and training sets as column names
+* Add the corresponding subject id and activity names to the test and training sets
+* Merge the test and training data into a single table
+* Filter out the columns which contains means as variables
+* Melt the table
+* Apply mean of all variables depending on the grouping of the subject id and activity
